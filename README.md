@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EndilaNovitaSari
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Talend, Python and SQL
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @endilanovitasari22@gmail.com
 
